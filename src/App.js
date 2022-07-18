@@ -1,12 +1,16 @@
 import React from "react";
 
-import SVG from "./components/SVG";
+import { ReactComponent as Main } from "./main.svg";
 import "./App.css";
 
 export default function App() {
+  const handleClick = (event) => {
+    console.log(event.target.parentElement.id);
+  };
+
   return (
     <div id="app">
-      <SVG id="test-id" part="test" />
+      <Main id="main" onClick={handleClick} />
     </div>
   );
 }
