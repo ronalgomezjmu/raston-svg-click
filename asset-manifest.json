@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/raston-svg-click/static/css/main.7c80d9a8.css",
-    "main.js": "/raston-svg-click/static/js/main.c6baf629.js",
+    "main.js": "/raston-svg-click/static/js/main.f0577478.js",
     "static/media/ftir-main.svg": "/raston-svg-click/static/media/ftir-main.da2fc6e9ad4c6a437bf50307d6d5a22e.svg",
     "static/media/parabolic-mirror.svg": "/raston-svg-click/static/media/parabolic-mirror.cbce2244ea0de0523c59bf5a9af3dece.svg",
     "static/media/parabolic-mirror-hole-1.svg": "/raston-svg-click/static/media/parabolic-mirror-hole-1.a5ad7dbb69e4027a7ecbe3b4f0408c42.svg",
@@ -21,10 +21,10 @@
     "static/media/lnsb.svg": "/raston-svg-click/static/media/lnsb.be2f7ec1a5b7f4a4e8c7895893070a41.svg",
     "static/media/mct.svg": "/raston-svg-click/static/media/mct.27fa7b010a4365aec4c848d7773bf571.svg",
     "main.7c80d9a8.css.map": "/raston-svg-click/static/css/main.7c80d9a8.css.map",
-    "main.c6baf629.js.map": "/raston-svg-click/static/js/main.c6baf629.js.map"
+    "main.f0577478.js.map": "/raston-svg-click/static/js/main.f0577478.js.map"
   },
   "entrypoints": [
     "static/css/main.7c80d9a8.css",
-    "static/js/main.c6baf629.js"
+    "static/js/main.f0577478.js"
   ]
 }
