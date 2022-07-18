@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/raston-svg-click/static/css/main.7c80d9a8.css",
+    "main.js": "/raston-svg-click/static/js/main.c6baf629.js",
+    "static/media/ftir-main.svg": "/raston-svg-click/static/media/ftir-main.da2fc6e9ad4c6a437bf50307d6d5a22e.svg",
+    "static/media/parabolic-mirror.svg": "/raston-svg-click/static/media/parabolic-mirror.cbce2244ea0de0523c59bf5a9af3dece.svg",
+    "static/media/parabolic-mirror-hole-1.svg": "/raston-svg-click/static/media/parabolic-mirror-hole-1.a5ad7dbb69e4027a7ecbe3b4f0408c42.svg",
+    "static/media/parabolic-mirror-hole-2.svg": "/raston-svg-click/static/media/parabolic-mirror-hole-2.9b3de20b0256f47b25f76f9b832c08d9.svg",
+    "static/media/aperture-wheel.svg": "/raston-svg-click/static/media/aperture-wheel.c0d13dcd587aa5386f9cbb64023c521c.svg",
+    "static/media/laser.svg": "/raston-svg-click/static/media/laser.8c8d5c79af045da503145f2245cafa13.svg",
+    "index.html": "/raston-svg-click/index.html",
+    "static/media/movable-corner-cube.svg": "/raston-svg-click/static/media/movable-corner-cube.a0a84043552f94268c894bf8ae1f3501.svg",
+    "static/media/fixed-corner-cube.svg": "/raston-svg-click/static/media/fixed-corner-cube.eeccfd307c4c7fc9df5313f4a907d396.svg",
+    "static/media/flat-rotatable-mirror-3.svg": "/raston-svg-click/static/media/flat-rotatable-mirror-3.169b02d47641fdeb93190b06ad24e46e.svg",
+    "static/media/flat-rotatable-mirror-1.svg": "/raston-svg-click/static/media/flat-rotatable-mirror-1.9a2551787b1b4359834a305bb5b21b78.svg",
+    "static/media/flat-rotatable-mirror-2.svg": "/raston-svg-click/static/media/flat-rotatable-mirror-2.b9c6295d6845c313bcca78c0f83d6a64.svg",
+    "static/media/sample-compartment.svg": "/raston-svg-click/static/media/sample-compartment.53c2b95ed36478cb2320d5ea94d38de6.svg",
+    "static/media/tungsten.svg": "/raston-svg-click/static/media/tungsten.3aa20712adf94e260796680e3b446ef2.svg",
+    "static/media/globar.svg": "/raston-svg-click/static/media/globar.eff787a1b3820d37815f1c5f23da3e01.svg",
+    "static/media/fixed-mirror.svg": "/raston-svg-click/static/media/fixed-mirror.8b1275979e85afdd6b6b4fc4e605ac26.svg",
+    "static/media/lnsb.svg": "/raston-svg-click/static/media/lnsb.be2f7ec1a5b7f4a4e8c7895893070a41.svg",
+    "static/media/mct.svg": "/raston-svg-click/static/media/mct.27fa7b010a4365aec4c848d7773bf571.svg",
+    "main.7c80d9a8.css.map": "/raston-svg-click/static/css/main.7c80d9a8.css.map",
+    "main.c6baf629.js.map": "/raston-svg-click/static/js/main.c6baf629.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c80d9a8.css",
+    "static/js/main.c6baf629.js"
+  ]
+}
