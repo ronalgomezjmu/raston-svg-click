@@ -2,8 +2,8 @@ import wheel from "../components/svgs/tooltip/aperture-wheel.svg";
 import fcc from "../components/svgs/tooltip/fixed-corner-cube.svg";
 import fm from "../components/svgs/tooltip/fixed-mirror.svg";
 import frm from "../components/svgs/tooltip/flat-rotatable-mirror-1.svg";
-import dcfrm from "../components/svgs/tooltip/flat-rotatable-mirror-2.svg";
-import cdfrm from "../components/svgs/tooltip/flat-rotatable-mirror-3.svg";
+import cdfrm from "../components/svgs/tooltip/flat-rotatable-mirror-2.svg";
+import dcfrm from "../components/svgs/tooltip/flat-rotatable-mirror-3.svg";
 import globar from "../components/svgs/tooltip/globar.svg";
 import laser from "../components/svgs/tooltip/laser.svg";
 import lnsb from "../components/svgs/tooltip/lnsb.svg";
@@ -20,8 +20,8 @@ export const imgSource = {
   "fixed-corner-cube": fcc,
   "fixed-mirror": fm,
   "flat-rotatable-mirror-1": frm,
-  "flat-rotatable-mirror-2": dcfrm,
   "flat-rotatable-mirror-3": cdfrm,
+  "flat-rotatable-mirror-2": dcfrm,
   globar: globar,
   laser: laser,
   lnsb: lnsb,
