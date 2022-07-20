@@ -12,6 +12,8 @@ export default function App() {
   const handleClick = (event) => {
     setToggled(!toggled);
 
+    console.log(element);
+
     if (event.target.parentElement.id === "app") {
       setElement(null);
     } else {
